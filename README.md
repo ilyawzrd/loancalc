@@ -1,1 +1,1 @@
-# loancalc
+https://ilyawzrd.github.io/loancalc/
